@@ -18,10 +18,6 @@ Script for bash completion is also provided.
 Install
 =======
 
-`make install`
+The project has been merged with trabucco: https://github.com/ltworf/trabucco/
 
-
-Debian package
-==============
-
-You can create a Debian package running `dpkg-buildpackage`.
+This repository is abandoned.
